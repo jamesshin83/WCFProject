@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedWebClient", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedLib2", "GettingStartedLib2\GettingStartedLib2.csproj", "{5A323363-9A7D-4946-9D9D-9A6A51BE3446}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedHost2", "GettingStartedHost2\GettingStartedHost2.csproj", "{5FDCE56A-FA47-4FE6-ACF3-E7554E46EDEF}"
+EndProject
 Global
 	GlobalSection(Performance) = preSolution
 		HasPerformanceSessions = true
@@ -42,6 +44,10 @@ Global
 		{5A323363-9A7D-4946-9D9D-9A6A51BE3446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A323363-9A7D-4946-9D9D-9A6A51BE3446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A323363-9A7D-4946-9D9D-9A6A51BE3446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDCE56A-FA47-4FE6-ACF3-E7554E46EDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDCE56A-FA47-4FE6-ACF3-E7554E46EDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDCE56A-FA47-4FE6-ACF3-E7554E46EDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDCE56A-FA47-4FE6-ACF3-E7554E46EDEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
