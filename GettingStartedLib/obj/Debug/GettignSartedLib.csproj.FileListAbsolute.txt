@@ -1,0 +1,6 @@
+E:\Projects\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+E:\Projects\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+E:\Projects\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+E:\Projects\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.csprojResolveAssemblyReference.cache
+E:\Projects\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+E:\Projects\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.pdb

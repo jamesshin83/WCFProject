@@ -1,0 +1,12 @@
+E:\Projects\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+E:\Projects\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.csprojResolveAssemblyReference.cache
+E:\Projects\GettignSarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+E:\Projects\GettignSarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+E:\Projects\GettignSarted\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
+E:\Projects\GettignSarted\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+E:\Projects\GettignSarted\GettingStartedHost\bin\Debug\log4net.dll
+E:\Projects\GettignSarted\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
+E:\Projects\GettignSarted\GettingStartedHost\bin\Debug\log4net.xml
+E:\Projects\GettignSarted\GettingStartedHost\obj\Debug\GettingStartedHost.csprojResolveAssemblyReference.cache
+E:\Projects\GettignSarted\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+E:\Projects\GettignSarted\GettingStartedHost\obj\Debug\GettingStartedHost.pdb

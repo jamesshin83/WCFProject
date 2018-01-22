@@ -1,0 +1,7 @@
+E:\Projects\GettignSarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+E:\Projects\GettignSarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+E:\Projects\GettignSarted\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+E:\Projects\GettignSarted\GettingStartedClient\bin\Debug\log4net.dll
+E:\Projects\GettignSarted\GettingStartedClient\bin\Debug\log4net.xml
+E:\Projects\GettignSarted\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+E:\Projects\GettignSarted\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
